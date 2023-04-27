@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin-top: 2rem;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+button{
+width: 20%;
+height: 20%;
+}
